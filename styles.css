@@ -66,7 +66,7 @@ body {
     .hero__heading {
         margin-top: 1.6em;
         font-size: 4.5rem;
-        min-width: max(600px, 680px);
+        min-width: max(600px, 740px);
         border: 2px solid;
         padding-left: .8em;
     }
